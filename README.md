@@ -1,0 +1,2 @@
+# AzHunter
+Azure KQL Hunter
